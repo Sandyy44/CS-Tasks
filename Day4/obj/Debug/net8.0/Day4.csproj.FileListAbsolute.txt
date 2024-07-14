@@ -1,0 +1,15 @@
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\obj\Debug\net8.0\Day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\obj\Debug\net8.0\Day4.AssemblyInfoInputs.cache
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\obj\Debug\net8.0\Day4.AssemblyInfo.cs
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\obj\Debug\net8.0\Day4.csproj.CoreCompileInputs.cache
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\obj\Debug\net8.0\Day4.sourcelink.json
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\bin\Debug\net8.0\Day4.exe
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\bin\Debug\net8.0\Day4.deps.json
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\bin\Debug\net8.0\Day4.runtimeconfig.json
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\bin\Debug\net8.0\Day4.dll
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\bin\Debug\net8.0\Day4.pdb
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\obj\Debug\net8.0\Day4.dll
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\obj\Debug\net8.0\refint\Day4.dll
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\obj\Debug\net8.0\Day4.pdb
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\obj\Debug\net8.0\Day4.genruntimeconfig.cache
+C:\Users\Sandy 3Laa\Desktop\cs_git\CS-Tasks\Day4\obj\Debug\net8.0\ref\Day4.dll
