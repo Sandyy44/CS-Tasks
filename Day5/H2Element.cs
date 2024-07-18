@@ -1,4 +1,3 @@
-using System;
 public class H2Element : TextElement
 {
   string fontColor;

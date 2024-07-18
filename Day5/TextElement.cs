@@ -1,4 +1,3 @@
-using System;
 public class TextElement : HTMLElement
 {
   string fontSize;

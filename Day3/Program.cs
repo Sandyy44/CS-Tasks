@@ -1,7 +1,4 @@
-﻿using System;
-using System.Runtime.Intrinsics.Arm;
-
-#region Comments
+﻿#region Comments
 //in main there is no initialization
 //in class there is initialization
 //we can set default values to method parameters

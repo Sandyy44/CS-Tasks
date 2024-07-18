@@ -1,8 +1,4 @@
-﻿Updates to keyboard shortcuts … On Thursday, August 1, 2024, Drive keyboard shortcuts will be updated to give you first-letters navigation.Learn more
-Program.cs
-﻿using System;
-
-class Task
+﻿class Task
 {
    static void Main(string[] args)
     {

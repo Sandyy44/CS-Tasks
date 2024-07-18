@@ -1,6 +1,4 @@
-﻿using System;
-using System.Runtime.Intrinsics.Arm;
-public class Student{
+﻿public class Student{
     string NAME;
     int AGE;
     int SSN;

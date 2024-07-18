@@ -14,12 +14,14 @@
         "outputPath": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sandy 3Laa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sandy 3Laa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
