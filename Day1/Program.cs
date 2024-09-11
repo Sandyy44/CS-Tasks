@@ -1,6 +1,6 @@
 ﻿class Task
 {
-    //Task 1: Write a program that receives a number and then output if it is positive or negative.
+    //Task 1: Write a program that receives a number and checks if it is positive or negative.
     public static void Task1()
     {
         Console.Write("Please Enter a number: ");
@@ -18,7 +18,7 @@ The number you entered is a {numType1} number.
     }
 
 
-    //Task 2: Task 1: Write a program that receives a number and then output if it is even or odd.
+    //Task 2: Write a program that receives a number and checks if it is even or odd.
     public static void Task2()
     {
         Console.Write("Please Enter a number: ");
