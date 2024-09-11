@@ -1,4 +1,12 @@
-﻿class Program
+﻿//Task: Create an HTMLElement class with type and value attributes,
+//along with constructors, getters, setters, a render method to print element info, and a ToString method to return the element info.
+//Then, create ImageElement and TextElement classes that inherit from HTMLElement.
+//The ImageElement class should have an additional src attribute, constructors, getters, setters, render, and ToString methods.
+//The TextElement class should have additional fontColor and fontSize attributes, constructors, getters, setters, render, and ToString methods.
+//Create H1Element and H2Element classes that inherit from TextElement. Implement constructors, getters, setters, render, and ToString methods for these classes.
+//Finally, create objects of these different HTML elements, add them all to a List, and print the contents of that list.
+
+class Program
 {
   static void Main(string[] args)
   {

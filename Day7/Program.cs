@@ -1,6 +1,4 @@
-﻿using System;
-using System.Xml.Linq;
-
+﻿//You will find the task details in the pdf file named "Day07"
 public class BMICalculator<T>
     where T : struct, IComparable, IFormattable, IConvertible, IComparable<T>, IEquatable<T>
 {
@@ -16,23 +14,23 @@ public class BMICalculator<T>
         Weight = weight;
         Sys = sys;
 
-        }
+    }
     public void BMIValue()
     {
         double heightValue = Convert.ToDouble(Height);
         double weightValue = Convert.ToDouble(Weight);
-        
+
         if (Sys == "m")
         {
             bmi = (weightValue) / (heightValue * heightValue);
             Console.WriteLine($"""BMI Value: {bmi}""");
-            if(stack.Count()!=0)
+            if (stack.Count() != 0)
                 prevbmi = stack.Peek();
             stack.Push(bmi);
         }
         else
         {
-            bmi = (weightValue*703) / (heightValue * heightValue);
+            bmi = (weightValue * 703) / (heightValue * heightValue);
             Console.WriteLine($"""BMI Value: {bmi}""");
             if (stack.Count() != 0)
                 prevbmi = stack.Peek();
@@ -44,18 +42,18 @@ public class BMICalculator<T>
     {
         if (bmi < 18.5)
             Console.WriteLine("BMI Category: Underweight");
-        else if (bmi >=18.5&& bmi<=24.9)
+        else if (bmi >= 18.5 && bmi <= 24.9)
             Console.WriteLine("BMI Category: Normal weight");
         else if (bmi >= 25 && bmi <= 29.9)
             Console.WriteLine("BMI Category: Overweight");
-        else if (bmi >=30)
+        else if (bmi >= 30)
             Console.WriteLine("BMI Category: Obesity");
 
     }
     public void PreviouBMI()
     {
-        if(prevbmi!=0)
-        Console.WriteLine($"Previous BMI: {prevbmi}");
+        if (prevbmi != 0)
+            Console.WriteLine($"Previous BMI: {prevbmi}");
         else
             Console.WriteLine($"Previous BMI: There are no previous BMIs");
 
@@ -78,7 +76,7 @@ public class Calculator<T>
     }
     public double calc(function fun)
     {
-        double res= fun(X, Y);
+        double res = fun(X, Y);
         return res;
 
     }
@@ -111,13 +109,14 @@ class Program
         return x * y;
 
     }
-   static public double Division<T>(T X, T Y)
+    static public double Division<T>(T X, T Y)
     {
         double x = Convert.ToDouble(X);
         double y = Convert.ToDouble(Y);
         return x / y;
 
     }
+    
     static void Task1()
     {
 
@@ -149,6 +148,7 @@ class Program
 
 
     }
+    
     static void Task2()
     {
         int exit;
@@ -190,17 +190,15 @@ class Program
         }
         while (exit == 1);
     }
+    
+    
     static void Main(string[] args)
     {
         Console.WriteLine("------------Task 1------------\n");
         Task1();
+
         Console.WriteLine("\n------------Task 2------------\n");
         Task2();
-
-
-
-
-
 
     }
 }

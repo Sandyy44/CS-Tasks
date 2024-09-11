@@ -1,15 +1,19 @@
-﻿public class Student{
+﻿//A Student class for Task 3.
+public class Student
+{
     string NAME;
     int AGE;
     int SSN;
     string phoneNumber;
-    public Student(string name,int ssn,int age,string phone_number){
-        SSN=ssn;
-        NAME=name;
-        AGE=age;
-        phoneNumber=phone_number;
+    public Student(string name, int ssn, int age, string phone_number)
+    {
+        SSN = ssn;
+        NAME = name;
+        AGE = age;
+        phoneNumber = phone_number;
     }
-    public void print(){
+    public void print()
+    {
         Console.WriteLine($"""
         student name: {NAME}
         student age: {AGE}
@@ -21,33 +25,45 @@
 
 class Program
 {
-    public void Task1(){
+    //Task 1: Write a program that receives a number and then prints the multiplication table of that number.
+    public static void Task1()
+    {
         Console.Write("Please Enter a number: ");
         int num = int.Parse(Console.ReadLine());
         Console.WriteLine("");
-        for(int i=0;i<=12;i++){
-            System.Console.WriteLine($"{i} x {num} = {i*num}");
+        for (int i = 0; i <= 12; i++)
+        {
+            System.Console.WriteLine($"{i} x {num} = {i * num}");
         }
     }
 
-    public void Task2(){
+
+    //Task 2: Write a program that receives a name, ID, age, and salary.
+    //Ensure that the received ID and age are not negative numbers,
+    //and that the salary is not less than 0 and does not exceed 20,000.
+    //Then, print these information out.
+    public static void Task2()
+    {
         Console.Write("Please Enter your name: ");
         string name = Console.ReadLine();
         int id;
-        do{
+        do
+        {
             Console.Write("Please Enter your id: ");
             id = int.Parse(Console.ReadLine());
-        }while(id<0);
+        } while (id < 0);
         int age;
-        do{
+        do
+        {
             Console.Write("Please Enter your age: ");
             age = int.Parse(Console.ReadLine());
-        }while(age<0);
+        } while (age < 0);
         int salary;
-        do{
+        do
+        {
             Console.Write("Please Enter salary: ");
             salary = int.Parse(Console.ReadLine());
-        }while(salary<0||salary>20000);
+        } while (salary < 0 || salary > 20000);
 
         Console.WriteLine($"""
 
@@ -56,23 +72,30 @@ class Program
         your id is {id}
         your salary is {salary}
         """);
-        
+
     }
 
-    public void Task3(){
-        Student student1 = new Student("sandy",22445,21,"01111111111");
+
+    //Task 3: Create a class named Student with the attributes NAME, AGE, SSN, and SALARY.
+    //Implement a parameterized constructor to initialize these attributes
+    //and a print method that prints the object's details (attribute values).
+    //Then, create an object of the class and use the print method.
+    public static void Task3()
+    {
+        Student student1 = new Student("sandy", 22445, 21, "01111111111");
         student1.print();
     }
 
-   static void Main(string[] args)
+    static void Main(string[] args)
     {
-        Program program = new Program();
         Console.WriteLine("Task 1 \n");
-        program.Task1();
+        Task1();
+
         Console.WriteLine("\nTask 2 \n");
-        program.Task2();
+        Task2();
+
         Console.WriteLine("\nTask 3 \n");
-        program.Task3();
+        Task3();
 
     }
 }

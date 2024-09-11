@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED9D80D-2D59-4CEC-AE3F-39A62CEE5228}|Day4\\Day4.csproj|c:\\users\\sandy 3laa\\desktop\\cs_git\\cs-tasks\\day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED9D80D-2D59-4CEC-AE3F-39A62CEE5228}|Day4\\Day4.csproj|solutionrelative:day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD3F704-143A-49DB-AF42-6D6D9C76E4A9}|Day3\\Day3.csproj|c:\\users\\sandy 3laa\\desktop\\cs_git\\cs-tasks\\day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD3F704-143A-49DB-AF42-6D6D9C76E4A9}|Day3\\Day3.csproj|solutionrelative:day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9A0CC1-FC29-4DF2-8000-50739644BCCD}|Day2\\Day2.csproj|c:\\users\\sandy 3laa\\desktop\\cs_git\\cs-tasks\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9A0CC1-FC29-4DF2-8000-50739644BCCD}|Day2\\Day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C1CC4D-4EEF-4F6E-BC1B-195DA86A23F3}|Day1\\Day1.csproj|c:\\users\\sandy 3laa\\desktop\\cs_git\\cs-tasks\\day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C1CC4D-4EEF-4F6E-BC1B-195DA86A23F3}|Day1\\Day1.csproj|solutionrelative:day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79418BC-217B-44B2-B448-916C6B3D14DC}|Day5\\Day5.csproj|c:\\users\\sandy 3laa\\desktop\\cs_git\\cs-tasks\\day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79418BC-217B-44B2-B448-916C6B3D14DC}|Day5\\Day5.csproj|solutionrelative:day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B6DA1C-7A9B-47E6-8721-73A72C80C730}|Day7\\Day7.csproj|c:\\users\\sandy 3laa\\desktop\\cs_git\\cs-tasks\\day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B6DA1C-7A9B-47E6-8721-73A72C80C730}|Day7\\Day7.csproj|solutionrelative:day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day7\\Program.cs",
+              "RelativeDocumentMoniker": "Day7\\Program.cs",
+              "ToolTip": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day7\\Program.cs",
+              "RelativeToolTip": "Day7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:22:28.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day5\\Program.cs",
+              "RelativeDocumentMoniker": "Day5\\Program.cs",
+              "ToolTip": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day5\\Program.cs",
+              "RelativeToolTip": "Day5\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAYAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:04:48.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day4\\Program.cs",
+              "RelativeDocumentMoniker": "Day4\\Program.cs",
+              "ToolTip": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day4\\Program.cs",
+              "RelativeToolTip": "Day4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:35:02.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day3\\Program.cs",
+              "RelativeDocumentMoniker": "Day3\\Program.cs",
+              "ToolTip": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day3\\Program.cs",
+              "RelativeToolTip": "Day3\\Program.cs",
+              "ViewState": "AQIAABkBAAAAAAAAAAAcwCMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:50:59.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day2\\Program.cs",
+              "RelativeDocumentMoniker": "Day2\\Program.cs",
+              "ToolTip": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day2\\Program.cs",
+              "RelativeToolTip": "Day2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:29:25.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day1\\Program.cs",
+              "RelativeDocumentMoniker": "Day1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sandy 3Laa\\Desktop\\cs_git\\CS-Tasks\\Day1\\Program.cs",
+              "RelativeToolTip": "Day1\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwEEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:16:44.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
