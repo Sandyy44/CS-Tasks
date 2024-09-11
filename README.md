@@ -65,5 +65,5 @@ This repository contains various projects and tasks given as part of the ITI .NE
 ## Day 7
 
 ### Tasks
-- Tasks are found [here](#blob/main/Day7/Day07.pdf) or view `Day07.pdf` file inside `Day7` folder.
+- Tasks are in `Day07.pdf` file inside `Day7` folder.
   
